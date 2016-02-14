@@ -76,3 +76,4 @@ return {
     patterns = {"^آپ تایم", "^!sh","^Get dialogs$"}, 
     run = run 
 }
+!cgroup
